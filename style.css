@@ -429,6 +429,10 @@ MODAL
     transform: scale(1.15);
     padding-top: 4px;
 }
+
+.language__ts {
+    padding-top: 4px;
+}
  
 .modal__contact {
     background-color: #242424;
